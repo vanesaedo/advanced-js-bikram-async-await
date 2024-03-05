@@ -43,7 +43,7 @@ Ejercicio 4.- Declara una función **getRandomDogImage** que retorne la url de l
 
 Ejercicio 5.- Declara una función **getRandomPokemonImage** que retorne la url de la imagen de un pokemon aleatorio.
 
-Ejercicio 6.- Declara una función **printPugVsPikachu** que pinte la batalla entre "Pug" y "Pikachu" (no se testea)
+    Ejercicio 6.- Declara una función **printPugVsPikachu** que pinte la batalla entre "Pug" y "Pikachu" (no se testea)
 
 
 ### Ejercicios con Rick and Morty ###
